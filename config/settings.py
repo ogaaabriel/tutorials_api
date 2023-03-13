@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "djoser",
     # My apps
     "accounts.apps.AccountsConfig",
+    "tutorials.apps.TutorialsConfig",
 ]
 
 MIDDLEWARE = [
